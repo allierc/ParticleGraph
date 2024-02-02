@@ -15,6 +15,7 @@ dependencies:
   - tifffile
   - astropy
   - cerberus
+  - pytest
   - pip
   - pip:
     - geomloss
