@@ -57,7 +57,7 @@ if __name__ == '__main__':
     # config_list = ['signal_N2_b_r1']
     # config_list = ['signal_N2_b_r2']
     # config_list = ['signal_N2_b_r5']
-    config_list = ['signal_N2_hemibrain_3_r2_a']
+    config_list = ['signal_N2_hemibrain_3_r1_a']
 
     # config_list = ['gravity_solar_system_d']
 
